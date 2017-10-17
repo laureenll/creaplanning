@@ -22,7 +22,7 @@
 
 <script>
 export default {
-  name: 'HelloWorld',
+  name: 'TableauDeBord',
   data () {
     return {
       msg: 'Welcome to Your Vue.js App'

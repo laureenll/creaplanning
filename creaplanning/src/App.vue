@@ -1,14 +1,18 @@
 <template>
   <div id="app">
-    <img src="./assets/logo.png">
+    <nav-bar v-if='["Connexion"].indexOf($route.name) === -1'></nav-bar>
     <router-view/>
   </div>
 </template>
 
 <script>
-export default {
-  name: 'app'
-}
+  import NavBar from './components/NavBar.vue'
+  export default {
+    name: 'app',
+    components: {
+      'nav-bar': NavBar
+    }
+  }
 </script>
 
 <style>
