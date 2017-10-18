@@ -5,18 +5,23 @@ import Vue from 'vue'
 import App from './App'
 import router from './router'
 import VueI18n from 'vue-i18n'
-import {messages} from 'vue-bootstrap-calendar'
+import messages from 'vue-bootstrap-calendar'
 
 Vue.config.productionTip = false
+
 window.jQuery = window.$ = jQuery
+
 Vue.use(VueI18n)
-window.i18n = new VueI18n({
-  locale: 'fr',
+
+const i18n = new VueI18n({
+  locale: 'en',
   messages
 })
+
 /* eslint-disable no-new */
 new Vue({
   el: '#app',
+  i18n,
   router,
   template: '<App/>',
   components: { App }

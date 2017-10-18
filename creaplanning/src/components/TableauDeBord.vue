@@ -16,18 +16,30 @@
 </template>
 
 <script>
-  import {Calendar} from 'vue-bootstrap-calendar'
+  import Calendar from 'vue-bootstrap-calendar'
   export default {
     name: 'TableauDeBord',
-    components: {
-      Calendar
-    },
     data () {
       return {
         events: [],
         titreTableauDeBord: 'Planning général',
         createRdv: 'Nouveau rendez-vous client'
       }
+    },
+    components: {
+      Calendar
+    },
+    mounted () {
+      setTimeout(function () {
+        this.events = [ // you can make ajax call here
+          {
+            id: 1,
+            title: 'Event 1',
+            color: 'panel-danger',
+            date: new Date()
+          }
+        ]
+      }, 1000)
     }
   }
 </script>

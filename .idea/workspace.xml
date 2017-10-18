@@ -2,17 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="90732cf6-1012-43a6-a4e1-fbb623af68e7" name="Default" comment="Initialisatio projet">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/creaplanning/src/components/Administration.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/creaplanning/src/components/Connexion.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/creaplanning/src/components/NavBar.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/creaplanning/src/components/ProfilUtilisateur.vue" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/creaplanning/.eslintrc.js" afterPath="$PROJECT_DIR$/creaplanning/.eslintrc.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/creaplanning/index.html" afterPath="$PROJECT_DIR$/creaplanning/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/creaplanning/package.json" afterPath="$PROJECT_DIR$/creaplanning/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/creaplanning/src/App.vue" afterPath="$PROJECT_DIR$/creaplanning/src/App.vue" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/creaplanning/src/components/TableauDeBord.vue" afterPath="$PROJECT_DIR$/creaplanning/src/components/TableauDeBord.vue" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/creaplanning/src/main.js" afterPath="$PROJECT_DIR$/creaplanning/src/main.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/creaplanning/src/router/index.js" afterPath="$PROJECT_DIR$/creaplanning/src/router/index.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/creaplanning/src/components/HelloWorld.vue" afterPath="$PROJECT_DIR$/creaplanning/src/components/TableauDeBord.vue" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -27,27 +22,7 @@
         <entry file="file://$PROJECT_DIR$/creaplanning/src/router/index.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="80">
-              <caret line="4" column="46" lean-forward="false" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="46" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ProfilUtilisateur.vue" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/creaplanning/src/components/ProfilUtilisateur.vue">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="19" column="8" lean-forward="false" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Connexion.vue" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/creaplanning/src/components/Connexion.vue">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="460">
-              <caret line="23" column="17" lean-forward="false" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
+              <caret line="4" column="34" lean-forward="false" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
               <folding />
             </state>
           </provider>
@@ -63,11 +38,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TableauDeBord.vue" pinned="false" current-in-tab="false">
+      <file leaf-file-name="TableauDeBord.vue" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/creaplanning/src/components/TableauDeBord.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="17" column="8" lean-forward="false" selection-start-line="17" selection-start-column="8" selection-end-line="18" selection-end-column="49" />
+            <state relative-caret-position="113">
+              <caret line="18" column="9" lean-forward="false" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -76,9 +51,54 @@
       <file leaf-file-name="App.vue" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/creaplanning/src/App.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="10" lean-forward="false" selection-start-line="0" selection-start-column="10" selection-end-line="0" selection-end-column="10" />
+            <state relative-caret-position="133">
+              <caret line="12" column="23" lean-forward="false" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".postcssrc.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/creaplanning/.postcssrc.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="5" column="22" lean-forward="false" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".eslintrc.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/creaplanning/.eslintrc.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="440">
+              <caret line="28" column="12" lean-forward="false" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/creaplanning/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="5" column="92" lean-forward="false" selection-start-line="5" selection-start-column="92" selection-end-line="5" selection-end-column="92" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/creaplanning/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="453">
+              <caret line="90" column="3" lean-forward="false" selection-start-line="90" selection-start-column="3" selection-end-line="90" selection-end-column="3" />
+              <folding>
+                <marker date="1508337141020" expanded="true" signature="430:719" ph="{&quot;bootstrap&quot;: &quot;^3.3.7&quot;...}" />
+                <marker date="1508337141020" expanded="true" signature="742:2469" ph="{&quot;autoprefixer&quot;: &quot;^7.1.2&quot;...}" />
+                <marker date="1508337141020" expanded="true" signature="2484:2535" ph="{&quot;node&quot;: &quot;&gt;= 4.0.0&quot;...}" />
+                <marker date="1508337141020" expanded="true" signature="2555:2613" ph="[...]" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -87,31 +107,10 @@
         <entry file="file://$PROJECT_DIR$/creaplanning/src/main.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="140">
-              <caret line="7" column="47" lean-forward="false" selection-start-line="7" selection-start-column="47" selection-end-line="7" selection-end-column="47" />
+              <caret line="7" column="15" lean-forward="true" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
-                <element signature="e#140#167#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/creaplanning/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="10" column="203" lean-forward="false" selection-start-line="10" selection-start-column="203" selection-end-line="10" selection-end-column="203" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/creaplanning/package.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="353">
-              <caret line="19" column="38" lean-forward="false" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -133,13 +132,14 @@
         <option value="$PROJECT_DIR$/creaplanning/src/assets/scss/bootstrap/variables.scss" />
         <option value="$PROJECT_DIR$/creaplanning/src/assets/scss/design.scss" />
         <option value="$PROJECT_DIR$/creaplanning/src/assets/scss/bootstrap/bootstrap-custom.scss" />
-        <option value="$PROJECT_DIR$/creaplanning/index.html" />
         <option value="$PROJECT_DIR$/creaplanning/src/components/Connexion.vue" />
-        <option value="$PROJECT_DIR$/creaplanning/src/App.vue" />
         <option value="$PROJECT_DIR$/creaplanning/src/components/NavBar.vue" />
-        <option value="$PROJECT_DIR$/creaplanning/src/components/TableauDeBord.vue" />
-        <option value="$PROJECT_DIR$/creaplanning/src/main.js" />
+        <option value="$PROJECT_DIR$/creaplanning/index.html" />
+        <option value="$PROJECT_DIR$/creaplanning/src/App.vue" />
         <option value="$PROJECT_DIR$/creaplanning/package.json" />
+        <option value="$PROJECT_DIR$/creaplanning/.eslintrc.js" />
+        <option value="$PROJECT_DIR$/creaplanning/src/main.js" />
+        <option value="$PROJECT_DIR$/creaplanning/src/components/TableauDeBord.vue" />
       </list>
     </option>
   </component>
@@ -489,12 +489,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1508246535923</updated>
-      <workItem from="1508246537616" duration="8381000" />
+      <workItem from="1508246537616" duration="13287000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8381000" />
+    <option name="totallyTimeSpent" value="13287000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -559,14 +559,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/creaplanning/src/router/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="4" column="46" lean-forward="false" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="46" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/creaplanning/src/assets/scss/design.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="513">
@@ -591,14 +583,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/creaplanning/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="10" column="203" lean-forward="false" selection-start-line="10" selection-start-column="203" selection-end-line="10" selection-end-column="203" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/creaplanning/src/components/Connexion.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="460">
@@ -615,18 +599,63 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/creaplanning/src/components/TableauDeBord.vue">
+    <entry file="file://$PROJECT_DIR$/creaplanning/src/router/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="34" lean-forward="false" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/creaplanning/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
-          <caret line="17" column="8" lean-forward="false" selection-start-line="17" selection-start-column="8" selection-end-line="18" selection-end-column="49" />
+          <caret line="5" column="92" lean-forward="false" selection-start-line="5" selection-start-column="92" selection-end-line="5" selection-end-column="92" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/creaplanning/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="453">
+          <caret line="90" column="3" lean-forward="false" selection-start-line="90" selection-start-column="3" selection-end-line="90" selection-end-column="3" />
+          <folding>
+            <marker date="1508337141020" expanded="true" signature="430:719" ph="{&quot;bootstrap&quot;: &quot;^3.3.7&quot;...}" />
+            <marker date="1508337141020" expanded="true" signature="742:2469" ph="{&quot;autoprefixer&quot;: &quot;^7.1.2&quot;...}" />
+            <marker date="1508337141020" expanded="true" signature="2484:2535" ph="{&quot;node&quot;: &quot;&gt;= 4.0.0&quot;...}" />
+            <marker date="1508337141020" expanded="true" signature="2555:2613" ph="[...]" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/creaplanning/.babelrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/creaplanning/.postcssrc.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="22" lean-forward="false" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/creaplanning/.eslintrc.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="28" column="12" lean-forward="false" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/creaplanning/src/App.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="10" lean-forward="false" selection-start-line="0" selection-start-column="10" selection-end-line="0" selection-end-column="10" />
+        <state relative-caret-position="133">
+          <caret line="12" column="23" lean-forward="false" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
           <folding />
         </state>
       </provider>
@@ -634,18 +663,17 @@
     <entry file="file://$PROJECT_DIR$/creaplanning/src/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="140">
-          <caret line="7" column="47" lean-forward="false" selection-start-line="7" selection-start-column="47" selection-end-line="7" selection-end-column="47" />
+          <caret line="7" column="15" lean-forward="true" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
-            <element signature="e#140#167#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/creaplanning/package.json">
+    <entry file="file://$PROJECT_DIR$/creaplanning/src/components/TableauDeBord.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="353">
-          <caret line="19" column="38" lean-forward="false" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
+        <state relative-caret-position="113">
+          <caret line="18" column="9" lean-forward="false" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
           <folding />
         </state>
       </provider>
